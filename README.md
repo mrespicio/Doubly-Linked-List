@@ -1,2 +1,2 @@
 # Doubly-Linked-List
-Linked List in O(n) time. 
+Implementation of the LinearListADT interface in O(n) time. Stack and Queue implementations uses LinearList. 
