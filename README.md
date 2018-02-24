@@ -1,2 +1,2 @@
-# Doubly-Linked-List
-Implementation of the LinearListADT interface in O(n) time. Stack and Queue implementations uses LinearList. 
+# Doubly Linked List
+Assignment for data structures class. Implementation of a doubly linked list, given the LinearListADT. Includes stack and queue implementation that uses a my doubly linked list.
