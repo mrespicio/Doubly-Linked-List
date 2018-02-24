@@ -1,3 +1,7 @@
+/*
+   Date: October 2017
+   Queue implementation that uses LinearList
+*/ 
 package data_structures;
 
 import java.util.Iterator;
