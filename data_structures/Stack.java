@@ -1,6 +1,6 @@
 /*  
- Program #2
- Megan Respicio
+ Date: October 2017 
+ Stack implementation that uses LinearList
 */
 
 package data_structures;
