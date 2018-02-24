@@ -1,10 +1,4 @@
-/*  
- Program #2
- Megan Respicio
- cssc0935
-*/
-
-//package data_structures;
+package data_structures;
 
 import java.util.Iterator;
 
