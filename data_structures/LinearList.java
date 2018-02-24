@@ -1,10 +1,9 @@
 /*  
- Program #2
- Megan Respicio
- cssc0935
+   Date: October 2017
+   Doubly linked list implementation using LinearListADT
 */
 
-//package data_structures;
+package data_structures;
 
 import java.util.Iterator;
 import java.util.ConcurrentModificationException;
