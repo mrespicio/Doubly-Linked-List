@@ -1,9 +1,8 @@
-/*
+/* By: Megan Respicio
    Date: October 2017
-   Queue implementation that uses LinearList
-*/ 
-package data_structures;
+   Github: github.com/mrespicio */
 
+package data_structures;
 import java.util.Iterator;
 
 public class Queue <E extends Comparable<E>> implements Iterable<E>{
