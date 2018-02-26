@@ -1,10 +1,8 @@
-/*  
- Date: October 2017 
- Stack implementation that uses LinearList
-*/
+/* By: Megan Respicio
+   Date: October 2017
+   Github: github.com/mrespicio */
 
 package data_structures;
-
 import java.util.Iterator;
 
 public class Stack <E extends Comparable<E>> implements Iterable<E>{
